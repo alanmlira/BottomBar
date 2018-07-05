@@ -61,6 +61,7 @@ dependencies {
     implementation 'com.android.support:support-compat:' + rootProject.ext.supportLibraryVersion
     implementation 'com.android.support:support-annotations:' + rootProject.ext.supportLibraryVersion
     implementation 'com.android.support:design:' + rootProject.ext.supportLibraryVersion
+    implementation 'com.intellij:annotations:+@jar'
 
     testImplementation 'junit:junit:' + rootProject.ext.junitVersion
 
